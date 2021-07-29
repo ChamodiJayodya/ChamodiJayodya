@@ -1,11 +1,11 @@
 ### Hello geeks 👋
 
-<img align ="right" alt ="gif" src = "https://github.com/ChamodiJayodya/ChamodiJayodya/blob/main/girl.gif" height= "320" width= "500">
+<img align ="right" alt ="gif" src = "https://github.com/ChamodiJayodya/ChamodiJayodya/blob/main/girl.gif" height= "250" width= "450">
 
 - 🌱 I’m currently learning React - AWS - Business Analytics
 - 🤔 I’m looking for help with Swift UI - Xcode
 - 📫 How to reach me: jayodyachamodi@gmail.com
-- ⚡ Fun fact: ...
+
 
 <h3>🙋‍♀️ Connect with me </h3>
 
