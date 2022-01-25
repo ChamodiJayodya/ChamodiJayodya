@@ -2,7 +2,7 @@
 
 <img align ="right" alt ="gif" src = "https://github.com/ChamodiJayodya/ChamodiJayodya/blob/main/girl.gif" height= "250" width= "450">
 
-- 🌱 I’m currently learning React - Business Analytics
+- 🌱 I’m currently working as a Business Analyst
 - 🤔 I’m looking for help with Swift UI - Xcode
 - 📫 How to reach me: jayodyachamodi@gmail.com
 
